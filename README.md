@@ -1,4 +1,4 @@
-# Hi, I'm Rein Buenaventura
+# Hi, I'm Rein
 
 Full-stack developer focused on building real-time collaborative applications and solving practical problems through code.
 
@@ -14,7 +14,7 @@ Full-stack developer focused on building real-time collaborative applications an
 
 **Real-time:** Socket.io  
 
-**DevOps:** Docker, Nginx, Hostinger, Vercel  
+**DevOps:** Docker, Nginx, Hostinger, Vercel, Render
 
 **Tools:** Redis, BullMQ, Cloudinary, Git
 
@@ -44,14 +44,14 @@ HR management system with role-based access control. Supports attendance trackin
 ---
 
 #### [Readefine](https://github.com/rn-mgl/readefine-app) · [Live](https://readefine.vercel.app/)
-Platform with PDF report generation and Cloudinary file uploads.
+Gamified learning platform referencing Lexile level for improving competency in the English language.
 
 **Stack:** Next.js, Express, MySQL, Cloudinary
 
 ---
 
 #### [Email Connector](https://github.com/rn-mgl/email-connector-app)
-Email service API for sending and connecting email workflows.
+Personal email service API for sending and connecting email workflows.
 
 **Stack:** Express, TypeScript, Nodemailer
 
