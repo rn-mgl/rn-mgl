@@ -7,10 +7,15 @@ Full-stack developer focused on building real-time collaborative applications an
 ### Tech Stack
 
 **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+
 **Backend:** Node.js, Express.js, Laravel
+
 **Database:** MySQL
+
 **Real-time:** Socket.io
+
 **DevOps:** Docker, Nginx
+
 **Tools:** Redis, BullMQ, Cloudinary, Git
 
 ---
@@ -18,6 +23,7 @@ Full-stack developer focused on building real-time collaborative applications an
 ### Projects
 
 #### [CodeSync](https://github.com/rn-mgl/codesync-app)
+
 Real-time collaborative coding platform for interview preparation and pair programming. Features a Monaco-based code editor, live collaboration with Socket.io, sandboxed code execution via Docker, AI-powered assistant, and a job queue system with BullMQ and Redis.
 
 **Stack:** Next.js, Express, TypeScript, MySQL, Socket.io, Redis, Docker, Monaco Editor
@@ -25,6 +31,7 @@ Real-time collaborative coding platform for interview preparation and pair progr
 ---
 
 #### [SynchroFlow](https://github.com/rn-mgl/synchroflow-app)
+
 Team collaboration and project management app with real-time updates. Includes task management with subtasks, private and group messaging, user invites, and live notifications via Socket.io.
 
 **Stack:** Next.js, Express, Socket.io, MySQL
@@ -32,6 +39,7 @@ Team collaboration and project management app with real-time updates. Includes t
 ---
 
 #### [Nest App](https://github.com/rn-mgl/nest-app)
+
 HR management system with role-based access control. Supports attendance tracking, leave management, performance reviews, training & development, employee onboarding, and document management.
 
 **Stack:** Next.js, Laravel, MySQL
@@ -39,6 +47,7 @@ HR management system with role-based access control. Supports attendance trackin
 ---
 
 #### [Readefine](https://github.com/rn-mgl/readefine-app)
+
 Platform with PDF report generation and Cloudinary file uploads.
 
 **Stack:** Next.js, Express, MySQL, Cloudinary
@@ -46,6 +55,7 @@ Platform with PDF report generation and Cloudinary file uploads.
 ---
 
 #### [Email Connector](https://github.com/rn-mgl/email-connector-app)
+
 Email service API for sending and connecting email workflows.
 
 **Stack:** Express, TypeScript, Nodemailer
@@ -61,4 +71,4 @@ Docker learning project demonstrating containerization with multi-service archit
 
 ### GitHub Stats
 
-![My stats](https://github-readme-stats.vercel.app/api?username=rn-mgl&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rn-mgl&show_icons=true&theme=transparent)
