@@ -25,7 +25,7 @@ Full-stack developer focused on building real-time collaborative applications an
 #### [CodeSync](https://github.com/rn-mgl/codesync-app) · [Live](https://codesync-rltns.vercel.app/)
 Real-time collaborative coding platform for interview preparation and pair programming. Features a Monaco-based code editor, live collaboration with Socket.io, sandboxed code execution via Docker, AI-powered assistant, and a job queue system with BullMQ and Redis.
 
-**Stack:** Next.js, Express, TypeScript, MySQL, Socket.io, Redis, Docker, Monaco Editor
+**Stack:** Next.js, Express, TypeScript, MySQL, Socket.io, Redis, Docker, Monaco Editor, Nginx
 
 ---
 
@@ -54,10 +54,3 @@ Gamified learning platform referencing Lexile level for improving competency in 
 Personal email service API for sending and connecting email workflows.
 
 **Stack:** Express, TypeScript, Nodemailer
-
----
-
-#### [Docker Tutorial App](https://github.com/rn-mgl/docker-tutorial-app)
-Docker learning project demonstrating containerization with multi-service architecture using Nginx as a reverse proxy.
-
-**Stack:** Express, MySQL, Docker, Nginx
